@@ -1,5 +1,7 @@
 # Machine-Learning-02ON
 
+ML ipynb/movie recommendation system 1
+
 # MOVIE RECOMMENDATION SYSTEM
 
 user have to select movie that are already in dataset.
@@ -12,7 +14,7 @@ Using cosine similarity formula.
 
 # DEPENDENCIES
 
- NUMPY 
- PANDAS
- SKLEARN
+- NUMPY 
+- PANDAS
+- SKLEARN
 
